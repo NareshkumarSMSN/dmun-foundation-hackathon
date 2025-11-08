@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+# DMUN Foundation Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## What We're Building
 
-## Available Scripts
+This is the frontend for the DMUN Foundation website. We're working on building out functional, responsive components that will make up the final site.
 
-In the project directory, you can run:
+## What We've Done So Far
 
-### `npm start`
+We've completed a few key pieces:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Executive Login System** - We built out a basic login system that handles authentication and includes proper validation. It's functional and ready to be expanded with more features down the line.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**Footer Design** - We created a responsive footer component that includes contact information, quick links to important pages, and social media links. It adapts well to different screen sizes.
 
-### `npm test`
+**Case Study** - We took some time to review the existing DNUM website to identify areas where we could make improvements and learn from what's already there.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Current Status
 
-### `npm run build`
+Right now, we've focused on getting the footer and login system working. There's still a lot more to build, but we wanted to make sure these core pieces were solid before moving forward. The rest of the pages and features are planned for upcoming milestones.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## What's Next
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Looking ahead, we're planning to:
+- Finish building out the Executive Leadership page
+- Add some polish to the footer with icons and maybe some subtle animations
+- Expand the login system to include user dashboards and support for different user roles
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+We're making steady progress and excited to keep building!
